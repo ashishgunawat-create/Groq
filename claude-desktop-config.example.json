@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "groq-mcp": {
+      "command": "python",
+      "args": ["C:\\path\\to\\groq-claude-mcp-connector\\server.py"],
+      "env": {
+        "GROQ_API_KEY": "gsk_REPLACE_ME"
+      }
+    }
+  }
+}
